@@ -1,7 +1,4 @@
 ---
-
-#Facial Detection System
-
 ## Overview
 
 This project is a basic **Facial Detection System** built using Python and the **OpenCV** library. The goal is to create a machine learning-based application that can detect and highlight human faces in real time using a webcam or image input.
