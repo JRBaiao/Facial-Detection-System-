@@ -1,5 +1,3 @@
-Of course! Here’s an improved and more polished version of your README for the **Facial Detection System** project:
-
 ---
 
 #Facial Detection System
